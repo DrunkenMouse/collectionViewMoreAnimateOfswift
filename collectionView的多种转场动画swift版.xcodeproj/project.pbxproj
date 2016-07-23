@@ -14,6 +14,17 @@
 		1660C0291D3E02B4000BAE8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1660C0271D3E02B4000BAE8F /* LaunchScreen.storyboard */; };
 		1660C0341D3E02B4000BAE8F /* collectionView_______swift_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C0331D3E02B4000BAE8F /* collectionView_______swift_Tests.swift */; };
 		1660C03F1D3E02B4000BAE8F /* collectionView_______swift_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C03E1D3E02B4000BAE8F /* collectionView_______swift_UITests.swift */; };
+		1660C04E1D3E02F8000BAE8F /* AlbumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C04D1D3E02F8000BAE8F /* AlbumViewController.swift */; };
+		1660C0501D3E0378000BAE8F /* AlbumLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C04F1D3E0378000BAE8F /* AlbumLayout.swift */; };
+		1660C0521D3E2029000BAE8F /* AlbumCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C0511D3E2029000BAE8F /* AlbumCell.swift */; };
+		1660C0541D3E24B6000BAE8F /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 1660C0531D3E24B6000BAE8F /* back.png */; };
+		1660C0571D3F194D000BAE8F /* TheFirstLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C0561D3F194D000BAE8F /* TheFirstLayout.swift */; };
+		1660C0591D3F1C4C000BAE8F /* TheFirstCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C0581D3F1C4C000BAE8F /* TheFirstCell.swift */; };
+		1660C05B1D3F1ED3000BAE8F /* TheFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C05A1D3F1ED3000BAE8F /* TheFirstViewController.swift */; };
+		1660C05D1D3F1FEE000BAE8F /* ADBrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C05C1D3F1FEE000BAE8F /* ADBrowserViewController.swift */; };
+		1660C05F1D3F2099000BAE8F /* ADBrowserLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C05E1D3F2099000BAE8F /* ADBrowserLayout.swift */; };
+		1660C0611D3F215D000BAE8F /* ADBrowserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C0601D3F215D000BAE8F /* ADBrowserCell.swift */; };
+		1660C0631D3F4491000BAE8F /* ADBrowserAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1660C0621D3F4491000BAE8F /* ADBrowserAnimator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,17 @@
 		1660C03A1D3E02B4000BAE8F /* collectionView的多种转场动画swift版UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "collectionView的多种转场动画swift版UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1660C03E1D3E02B4000BAE8F /* collectionView_______swift_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "collectionView_______swift_UITests.swift"; sourceTree = "<group>"; };
 		1660C0401D3E02B4000BAE8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1660C04D1D3E02F8000BAE8F /* AlbumViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumViewController.swift; sourceTree = "<group>"; };
+		1660C04F1D3E0378000BAE8F /* AlbumLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumLayout.swift; sourceTree = "<group>"; };
+		1660C0511D3E2029000BAE8F /* AlbumCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumCell.swift; sourceTree = "<group>"; };
+		1660C0531D3E24B6000BAE8F /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		1660C0561D3F194D000BAE8F /* TheFirstLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheFirstLayout.swift; sourceTree = "<group>"; };
+		1660C0581D3F1C4C000BAE8F /* TheFirstCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheFirstCell.swift; sourceTree = "<group>"; };
+		1660C05A1D3F1ED3000BAE8F /* TheFirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheFirstViewController.swift; sourceTree = "<group>"; };
+		1660C05C1D3F1FEE000BAE8F /* ADBrowserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADBrowserViewController.swift; sourceTree = "<group>"; };
+		1660C05E1D3F2099000BAE8F /* ADBrowserLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADBrowserLayout.swift; sourceTree = "<group>"; };
+		1660C0601D3F215D000BAE8F /* ADBrowserCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADBrowserCell.swift; sourceTree = "<group>"; };
+		1660C0621D3F4491000BAE8F /* ADBrowserAnimator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ADBrowserAnimator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,10 +119,13 @@
 		1660C01D1D3E02B4000BAE8F /* collectionView的多种转场动画swift版 */ = {
 			isa = PBXGroup;
 			children = (
-				1660C01E1D3E02B4000BAE8F /* AppDelegate.swift */,
+				1660C0551D3F191E000BAE8F /* 自定义转场动画 */,
+				1660C04C1D3E02E0000BAE8F /* 相册效果 */,
 				1660C0201D3E02B4000BAE8F /* ViewController.swift */,
+				1660C01E1D3E02B4000BAE8F /* AppDelegate.swift */,
 				1660C0221D3E02B4000BAE8F /* Main.storyboard */,
 				1660C0251D3E02B4000BAE8F /* Assets.xcassets */,
+				1660C0531D3E24B6000BAE8F /* back.png */,
 				1660C0271D3E02B4000BAE8F /* LaunchScreen.storyboard */,
 				1660C02A1D3E02B4000BAE8F /* Info.plist */,
 			);
@@ -123,6 +148,30 @@
 				1660C0401D3E02B4000BAE8F /* Info.plist */,
 			);
 			path = "collectionView的多种转场动画swift版UITests";
+			sourceTree = "<group>";
+		};
+		1660C04C1D3E02E0000BAE8F /* 相册效果 */ = {
+			isa = PBXGroup;
+			children = (
+				1660C04D1D3E02F8000BAE8F /* AlbumViewController.swift */,
+				1660C04F1D3E0378000BAE8F /* AlbumLayout.swift */,
+				1660C0511D3E2029000BAE8F /* AlbumCell.swift */,
+			);
+			path = "相册效果";
+			sourceTree = "<group>";
+		};
+		1660C0551D3F191E000BAE8F /* 自定义转场动画 */ = {
+			isa = PBXGroup;
+			children = (
+				1660C0561D3F194D000BAE8F /* TheFirstLayout.swift */,
+				1660C0581D3F1C4C000BAE8F /* TheFirstCell.swift */,
+				1660C05A1D3F1ED3000BAE8F /* TheFirstViewController.swift */,
+				1660C05C1D3F1FEE000BAE8F /* ADBrowserViewController.swift */,
+				1660C0621D3F4491000BAE8F /* ADBrowserAnimator.swift */,
+				1660C05E1D3F2099000BAE8F /* ADBrowserLayout.swift */,
+				1660C0601D3F215D000BAE8F /* ADBrowserCell.swift */,
+			);
+			path = "自定义转场动画";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +281,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1660C0541D3E24B6000BAE8F /* back.png in Resources */,
 				1660C0291D3E02B4000BAE8F /* LaunchScreen.storyboard in Resources */,
 				1660C0261D3E02B4000BAE8F /* Assets.xcassets in Resources */,
 				1660C0241D3E02B4000BAE8F /* Main.storyboard in Resources */,
@@ -259,8 +309,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1660C04E1D3E02F8000BAE8F /* AlbumViewController.swift in Sources */,
+				1660C0611D3F215D000BAE8F /* ADBrowserCell.swift in Sources */,
+				1660C0631D3F4491000BAE8F /* ADBrowserAnimator.swift in Sources */,
 				1660C0211D3E02B4000BAE8F /* ViewController.swift in Sources */,
+				1660C0571D3F194D000BAE8F /* TheFirstLayout.swift in Sources */,
+				1660C05D1D3F1FEE000BAE8F /* ADBrowserViewController.swift in Sources */,
+				1660C0521D3E2029000BAE8F /* AlbumCell.swift in Sources */,
 				1660C01F1D3E02B4000BAE8F /* AppDelegate.swift in Sources */,
+				1660C0501D3E0378000BAE8F /* AlbumLayout.swift in Sources */,
+				1660C0591D3F1C4C000BAE8F /* TheFirstCell.swift in Sources */,
+				1660C05B1D3F1ED3000BAE8F /* TheFirstViewController.swift in Sources */,
+				1660C05F1D3F2099000BAE8F /* ADBrowserLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
